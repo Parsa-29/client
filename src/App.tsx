@@ -8,6 +8,7 @@ import ModalContenxtProvider from "./Context/ModalContext";
 import "./App.css";
 import Chart from "./components/Chart";
 
+
 interface User {
   id: number;
   name: string;
